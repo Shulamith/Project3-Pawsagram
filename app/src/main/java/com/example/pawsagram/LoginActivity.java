@@ -63,4 +63,5 @@ public class LoginActivity extends AppCompatActivity {
         finish(); //so that the back button doesn't log you out
 
     }
+
 }

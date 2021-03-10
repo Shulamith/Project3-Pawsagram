@@ -29,7 +29,9 @@
         android:layout_marginTop="8dp"
         android:autofillHints=""
         android:hint="password"
-        android:textSize="18sp" />
+        android:inputType="textPassword"
+        android:textSize="18sp"
+        tools:visibility="invisible" />
 
     <Button
         android:id="@+id/btnLogin"
